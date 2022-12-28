@@ -20,7 +20,7 @@ import math
          print("Volume Tabung:", math.pi * (self.jari_jari ** 2) * self.tinggi) 
           
      def info(self): 
-         print("Nama : Eunike Dukkun") 
+         print("Nama : Nurul Aulia") 
          print("Kelas : Informatika G") 
   
  class Luas: 
